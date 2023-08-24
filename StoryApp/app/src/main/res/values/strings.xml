@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="welcome_word">WELCOME</string>
+    <string name="welcome_line">Selamat Datang di Story App!</string>
+    <string name="email_input">Masukkan Email</string>
+    <string name="gambarlogo_desc">gambar_logo</string>
+    <string name="password">Masukkan Password Anda</string>
+    <string name="password_email_error">Email atau Password Tidak Sesuai</string>
+    <string name="email">Masukkan Email Anda</string>
+    <string name="email_error">Format Email Tidak Sesuai</string>
+    <string name="welcome_desc">tempat berbagi keluh kisah</string>
+    <string name="regis_button">REGISTER</string>
+    <string name="login_button">LOGIN</string>
+    <string name="login_word">LOGIN</string>
+    <string name="regis_word">REGISTER</string>
+    <string name="login_desc">Masuk dengan akun terdaftar</string>
+    <string name="login_toregis">
+        Tidak Punya Akun? <font color="#e15600"><b>Register</b></font>
+    </string>
+    <string name="regis_tologin">
+        Sudah Punya Akun? <font color="#e15600"><b>Login</b></font>
+    </string>
+    <string name="regis_desc">Daftarkan akun anda</string>
+    <string name="name">Masukkan Nama Anda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cd_story_image">Gambar yang dishare</string>
+    <string name="user_name">User</string>
+    <string name="fill_field">Email dan Password Tidak Boleh Kosong</string>
+    <string name="add_story_button">Add Story</string>
+    <string name="_button">Logout</string>
+    <string name="login_failed">Login Gagal</string>
+    <string name="register_failed">Register Gagal</string>
+    <string name="login_success">Login Berhasil!</string>
+    <string name="register_success">Register Berhasil!</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="add_story">Add Story</string>
+    <string name="preview_image">Preview Image</string>
+    <string name="story_description">Story Description</string>
+    <string name="gallery">gallery</string>
+    <string name="camera">camera</string>
+    <string name="upload_story">Upload</string>
+    <string name="capture">Capture</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="error_capture">Gagal Mengambil Gambar</string>
+    <string name="description">Masukkan Deskripsi Story!</string>
+    <string name="upload_fail">Upload Gagal</string>
+    <string name="upload_success">Upload Berhasil!</string>
+    <string name="password_error">Karakter harus 8 atau lebih</string>
+    <string name="title_activity_maps">Story Location</string>
+    <string name="story_map">Story Map</string>
+    <string name="title_detail_story">Detail Story</string>
+    <string name="title_add_story">Add Story</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="failed_load_data">Failed Load Data</string>
+    <string name="retry">Retry</string>
+</resources>

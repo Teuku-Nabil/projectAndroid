@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Game.In</string>
+
+    <string name="games_name">Nama Games</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_name">Detail Nama</string>
+    <string name="detail_description">Detail Description</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Need For Speed HEAT</item>
+        <item>Need For Speed Unbound</item>
+        <item>911 Operator</item>
+        <item>Anno 1404</item>
+        <item>Fire Emblem Three House</item>
+        <item>Wargame: Red Dragon</item>
+        <item>Sim City 4</item>
+        <item>Hogwarts Legacy</item>
+        <item>FIFA 2022</item>
+        <item>Forza Horizon 5</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Game ini dikembangkan oleh Ghost Games dan diterbitkan oleh Electronic Arts (EA) pada tahun 2019.</item>
+        <item>Game ini dikembangkan oleh Criterion Games dan diterbitkan oleh Electronic Arts (EA) pada tahun 2022.</item>
+        <item>911 Operator adalah game simulasi yang memungkinkan pemain untuk berperan sebagai operator panggilan darurat 911.</item>
+        <item>Anno 1404 adalah game simulasi pembangunan dan strategi yang dirilis oleh Ubisoft pada tahun 2009.</item>
+        <item>Fire Emblem: Three Houses adalah permainan video role-playing yang dirilis oleh Nintendo pada tahun 2019 untuk konsol Switch.</item>
+        <item>Wargame: Red Dragon adalah game strategi real-time yang dikembangkan oleh Eugen Systems dan diterbitkan oleh Focus Home Interactive.</item>
+        <item>SimCity 4 adalah permainan simulasi pembangunan kota yang dikembangkan oleh Maxis dan dirilis oleh Electronic Arts pada tahun 2003.</item>
+        <item>Hogwarts Legacy adalah game aksi petualangan RPG yang dikembangkan oleh Avalanche Software dan diterbitkan oleh Warner Bros. Interactive Entertainment.</item>
+        <item>FIFA 22 adalah game simulasi sepak bola yang dikembangkan dan diterbitkan oleh Electronic Arts (EA).</item>
+        <item>Forza Horizon 5 adalah game balap mobil yang dikembangkan oleh Playground Games dan diterbitkan oleh Xbox Game Studios.</item>
+    </string-array>
+
+    <string-array name="data_detail_description">
+        <item>Game ini dikembangkan oleh Ghost Games dan diterbitkan oleh Electronic Arts (EA) pada tahun 2019. Game ini memiliki mode balap di siang dan malam hari dengan mekanik gameplay yang berbeda dan jenis polisi yang berbeda untuk dihindari. Pada siang hari, pemain dapat berpartisipasi dalam balapan untuk menghasilkan uang guna meningkatkan dan menyesuaikan mobil mereka. Sedangkan pada malam hari, pemain dapat berpartisipasi dalam balapan liar untuk mendapatkan reputasi.\n\n\nDeveloper: Ghost Games\nGenre(s): Racing, Arcade, Automobile\nUser Score: 6.1 (Metacritic)</item>
+        <item>Game ini dikembangkan oleh Criterion Games dan diterbitkan oleh Electronic Arts (EA) pada tahun 2022. Game ini memiliki gameplay yang cukup mirip dengan game sebelumnya, yaitu NFS Heat dengan peningkatan yang cukup signifikan terutama di bagian visual. NFS Unbound berhasil memenuhi ekspektasi pemain dari berbagai aspek. Improvisasinya di bagian gameplay-nya yang terasa lebih arcade, gaya visual cel-shading ala anime serta inovasi baru seperti driving effect dan bet yang meningkatkan keseruan bermain. Satu hal yang perlu digarisbawahi adalah game ini tak lagi menyertakan fitur Microtransactions seperti seri sebelumnya.\n\n\nDeveloper: Criterion Games\nGenre(s): Racing, Arcade, Automobile\nUser Score: 5.3 (Metacritic)</item>
+        <item>911 Operator adalah game simulasi yang memungkinkan pemain untuk berperan sebagai operator panggilan darurat 911. Dalam game ini, pemain bertugas menerima panggilan darurat dan mengirimkan layanan darurat yang tepat ke tempat kejadian. Permainan ini cocok bagi mereka yang tertarik dengan pekerjaan layanan darurat dan ingin merasakan pengalaman yang serupa secara virtual. Namun, permainan ini juga membutuhkan kesabaran dan konsentrasi yang tinggi, karena pemain harus menghadapi situasi darurat yang tidak dapat diprediksi.\n\n\nDeveloper: Jutsu Games\nGenre(s): Simulation, Virtual, Career\nUser Score: 6.7 (Metacritic)</item>
+        <item>Anno 1404 adalah game simulasi pembangunan dan strategi yang dirilis oleh Ubisoft pada tahun 2009. Dalam game ini, pemain bertindak sebagai pemimpin sebuah kerajaan pada zaman perdagangan dan penjelajahan, yang bertujuan untuk membangun kota dan memperluas wilayahnya. Game ini cocok bagi penggemar genre strategi dan pembangunan, yang menyukai game yang kompleks dan menantang. Namun, game ini juga membutuhkan waktu dan kesabaran untuk mempelajari semua sistem ekonomi dan strategi dalam game.\n\n\nDeveloper: Related Designs\nGenre(s): Miscellaneous, Compilation\nUser Score: 6.8 (Metacritic)</item>
+        <item>Fire Emblem: Three Houses adalah permainan video role-playing yang dirilis oleh Nintendo pada tahun 2019 untuk konsol Switch. Dalam permainan ini, pemain memainkan peran sebagai guru di akademi militer Garreg Mach. Fire Emblem: Three Houses adalah game video role-playing yang sangat baik dengan banyak fitur menarik, gameplay yang dalam, dan tampilan grafis yang indah. Game ini cocok bagi penggemar genre RPG, yang menyukai game dengan banyak pilihan dan kebebasan dalam mengembangkan karakter dan cerita.\n\n\nDeveloper: Koel Tecmo Games\nGenre(s): Strategy, Turn-Based, Tactics\nUser Score: 8.8 (Metacritic)</item>
+        <item>Wargame: Red Dragon adalah game strategi real-time yang dikembangkan oleh Eugen Systems dan diterbitkan oleh Focus Home Interactive. Game ini adalah bagian dari seri Wargame yang terkenal dan menawarkan pengalaman perang yang sangat mendalam dan realistis. Game ini cocok bagi penggemar game strategi dan orang yang menyukai pengalaman perang yang realistis dan kompleks. Namun, game ini juga membutuhkan waktu dan usaha yang cukup besar untuk dipelajari dan dimainkan dengan efektif.\n\n\nDeveloper: Eugen Systems\nGenre(s): Strategy, Real-Time, Historic, Tactics\nUser Score: 7.9 (Metacritic)</item>
+        <item>SimCity 4 adalah permainan simulasi pembangunan kota yang dikembangkan oleh Maxis dan dirilis oleh Electronic Arts pada tahun 2003. Dalam permainan ini, pemain bertindak sebagai walikota dan bertanggung jawab untuk membangun dan mengelola kota. SimCity 4 merupakan game simulasi pembangunan kota yang sangat baik dengan banyak fitur menarik, gameplay yang dalam, dan tampilan grafis yang detail. Game ini cocok bagi penggemar genre simulasi dan strategi, yang menyukai game yang kompleks dan menantang.\n\n\nDeveloper: Maxis\nGenre(s): Strategy, City Building, Management\nUser Score: 8.7 (Metacritic)</item>
+        <item>Hogwarts Legacy adalah game aksi petualangan RPG yang dikembangkan oleh Avalanche Software dan diterbitkan oleh Warner Bros. Interactive Entertainment. Game ini diatur dalam dunia Harry Potter dan menempatkan pemain sebagai murid di Hogwarts School of Witchcraft and Wizardry pada abad ke-19. Hogwarts Legacy adalah game aksi petualangan RPG yang menarik dan menghibur dengan banyak fitur menarik dan tampilan grafis yang indah. Game ini cocok bagi penggemar dunia Harry Potter, yang menyukai game dengan alur cerita yang kuat, gameplay yang mendalam, dan banyak pilihan untuk membangun karakter dan karir.\n\n\nDeveloper: Avalanche Software\nGenre(s): Action, Adventure, Open-World\nUser Score: 8.2 (Metacritic)</item>
+        <item>FIFA 22 adalah game simulasi sepak bola yang dikembangkan dan diterbitkan oleh Electronic Arts (EA). Game ini menawarkan pengalaman realistis dari pertandingan sepak bola di berbagai liga dan tim di seluruh dunia. Game ini cocok bagi penggemar sepak bola yang ingin merasakan pengalaman realistis dari pertandingan sepak bola dan pengelolaan klub. Namun, game ini juga memiliki beberapa kekurangan, seperti kurangnya inovasi besar di beberapa aspek permainan, dan kebutuhan untuk membeli paket tambahan dalam game untuk mengakses beberapa fitur.\n\n\nDeveloper: EA Canada\nGenre(s): Sports, Team, Soccer\nUser Score: 1.8 (Metacritic)</item>
+        <item>Forza Horizon 5 adalah game balap mobil yang dikembangkan oleh Playground Games dan diterbitkan oleh Xbox Game Studios. Game ini adalah bagian dari seri Forza Horizon yang terkenal dan menawarkan pengalaman balap yang paling realistis dan mendalam. Forza Horizon 5 adalah game balap mobil yang sangat baik dengan grafis yang indah, gameplay yang mendalam dan tantangan yang menarik. Game ini cocok bagi penggemar game balap mobil dan orang yang menyukai pengalaman balap yang realistis dan menyenangkan.\n\n\nDeveloper: Playground Games\nGenre(s): Racing, Simulation, Automobile\nUser Score: 8.2 (Metacritic)</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/heat</item>
+        <item>@drawable/unbound</item>
+        <item>@drawable/operator</item>
+        <item>@drawable/anno1404</item>
+        <item>@drawable/fethree</item>
+        <item>@drawable/wargame</item>
+        <item>@drawable/simcity</item>
+        <item>@drawable/hogwart</item>
+        <item>@drawable/fifa</item>
+        <item>@drawable/forza</item>
+    </integer-array>
+</resources>

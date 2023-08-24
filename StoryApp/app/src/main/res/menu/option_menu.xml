@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_story_menu"
+        android:icon="@drawable/baseline_post_add_24"
+        android:title="@string/add_story_button"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/baseline_map"
+        android:title="@string/story_map"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/baseline_logout"
+        android:title="@string/_button"
+        app:showAsAction="always" />
+</menu>
